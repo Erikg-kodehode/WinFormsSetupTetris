@@ -1,0 +1,15 @@
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\bin\Debug\net6.0-windows\TetrisSetup.exe
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\bin\Debug\net6.0-windows\TetrisSetup.deps.json
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\bin\Debug\net6.0-windows\TetrisSetup.runtimeconfig.json
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\bin\Debug\net6.0-windows\TetrisSetup.dll
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\bin\Debug\net6.0-windows\TetrisSetup.pdb
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\AprilFoolsJoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\AprilFoolsJoke.AssemblyInfoInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\AprilFoolsJoke.AssemblyInfo.cs
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\AprilFoolsJoke.csproj.CoreCompileInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\TetrisSetup.dll
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\refint\TetrisSetup.dll
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\TetrisSetup.pdb
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\AprilFoolsJoke.genruntimeconfig.cache
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\ref\TetrisSetup.dll
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Tetrisgame\obj\Debug\net6.0-windows\AprilFoolsJoke.sourcelink.json

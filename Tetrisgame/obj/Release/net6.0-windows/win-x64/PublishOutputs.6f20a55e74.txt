@@ -1,0 +1,2 @@
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Published\TetrisSetup.pdb
+C:\Users\erikg\Documents\Dev\Backend\tetrisgame\Published\TetrisSetup.exe
